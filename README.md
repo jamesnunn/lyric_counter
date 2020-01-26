@@ -8,4 +8,6 @@ pip install musicbrainzngs requests pytest
 ```
 
 Usage:
-    python artist_avg.py 'Lana Del Rey' 'Snow Patrol'
+```
+python artist_avg.py 'Lana Del Rey' 'Snow Patrol'
+```
